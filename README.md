@@ -72,8 +72,9 @@ This project is developed for educational and learning purposes.
 
 ## 👨‍💻 Author
 
-- Developed by: **PROTTOY SAHA**
+- **PROTTOY SAHA**
 - AIUB
+- Bsc CSE
 - Contact: prottoys28@gmail.com
 ---
 
