@@ -74,7 +74,7 @@ This project is developed for educational and learning purposes.
 
 - **PROTTOY SAHA**
 - AIUB
-- Bsc CSE
+- Student from CSE Department
 - Contact: prottoys28@gmail.com
 ---
 
