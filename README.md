@@ -4,6 +4,8 @@
 A web-based application designed to manage the operations of a pastry shop efficiently. The system supports role-based access for Admins, Employees, and Customers. 
 It was developed using the **MVC (Model-View-Controller)** architectural pattern to ensure modularity, scalability, and maintainability.
 
+## Live Hosted at: https://macrodmt.rf.gd**
+
 ## 🧰 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, AJAX
@@ -73,8 +75,8 @@ This project is developed for educational and learning purposes.
 - Developed by: **PROTTOY SAHA**
 - AIUB
 - Contact: prottoys28@gmail.com
-```
-
 ---
+
+
 
 
